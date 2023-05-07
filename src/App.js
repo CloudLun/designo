@@ -21,27 +21,27 @@ function App() {
         element:<Home />
       },
       {
-        path:"webDesign",
+        path:"/webDesign",
         element: <WebDesign />
       },
       {
-        path:"appDesign",
+        path:"/appDesign",
         element: <AppDesign />
       },
       {
-        path:"graphicDesign",
+        path:"/graphicDesign",
         element:<GraphicDesign />
       },
       {
-        path:"about",
+        path:"/about",
         element:<AboutPage />
       },
       {
-        path:"locations",
+        path:"/locations",
         element: <LocaitonsPage />
       },
       {
-        path:"contact",
+        path:"/contact",
         element: <ContactPage />
       }
     ])
